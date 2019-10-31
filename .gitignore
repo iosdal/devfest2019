@@ -6,3 +6,5 @@ terraform/secret
 azure.auto.tfvars
 00-state.tf
 .terraformrc
+.directory
+
